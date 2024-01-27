@@ -1,0 +1,8 @@
+alt-tab
+dbeaver-community
+docker
+flameshot
+font-hack-nerd-font
+insomnia
+spotify
+visual-studio-code

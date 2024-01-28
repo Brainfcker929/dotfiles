@@ -24,6 +24,7 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 . "$HOME/.asdf/asdf.sh"
 ########
 
-# direnv #
-eval "$(direnv hook zsh)"source "${XDG_CONFIG_HOME:-$HOME/.config}/asdf-direnv/zshrc"
+# Direnv #
+export ASDF_DIRENV_BIN="$HOME/.asdf/installs/direnv/2.33.0/bin/direnv"
+eval "$($ASDF_DIRENV_BIN hook zsh)"
 ##########

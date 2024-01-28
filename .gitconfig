@@ -12,7 +12,21 @@
 	path = .gitconfig_personal
 [core]
 	excludesFile = ~/.gitignore_global
+	editor = code
 [alias]
 	pushall = "!git push github && git push gitlab"
+	l = log --graph --pretty=format':%C(yellow)%h%Creset %s %C(green)(%an, %ad%Creset)' --date=iso-local
+	c = commit
+	s = status
+	r = remote -v
+	b = branch -v
 [pull]
 	rebase = false
+[push]
+	default = current
+[color]
+	branch = auto
+	status = auto
+	diff = auto
+	interactive = auto
+	ui = auto

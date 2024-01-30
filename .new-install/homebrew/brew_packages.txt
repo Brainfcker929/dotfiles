@@ -1,4 +1,5 @@
 autoconf
+autojump
 automake
 bash
 brotli
@@ -68,6 +69,7 @@ python-argcomplete
 python-markupsafe
 python-packaging
 python-typing-extensions
+python@3.12
 pyyaml
 qemu
 readline

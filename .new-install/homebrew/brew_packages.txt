@@ -22,6 +22,7 @@ gmp
 gnupg
 gnutls
 grep
+hyperfine
 icu4c
 jpeg-turbo
 jq

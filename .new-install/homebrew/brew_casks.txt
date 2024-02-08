@@ -1,5 +1,6 @@
 alt-tab
 dbeaver-community
+firefox
 flameshot
 font-hack-nerd-font
 framer

@@ -57,5 +57,8 @@ venv/
 
 # Custom #
 ##########
-
 .ignore
+
+# Envrc #
+#########
+.envrc

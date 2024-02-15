@@ -18,6 +18,7 @@ alias mkcd='foo(){ mkdir -p '$1'; cd '$1' }; foo '
 alias df='df -h'
 alias root='sudo su'
 alias cw='code .vscode/project.code-workspace'
+alias cat="bat"
 #####################
 
 # Git commands #

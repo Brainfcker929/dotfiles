@@ -26,6 +26,7 @@ znap source marlonrichert/zsh-autocomplete
 
 # `znap eval` makes evaluating generated command output up to 10 times faster.
 znap eval iterm2 'curl -fsSL https://iterm2.com/shell_integration/zsh'
+znap eval thefuck 'thefuck --alias'
 
 # TODO:
 # `znap function` lets you lazy-load features you don't always need.
@@ -55,3 +56,7 @@ export DIRENV_LOG_FORMAT=""
 # Zoxide #
 znap eval zoxide 'zoxide init --cmd cd zsh'
 ##########
+
+# Homebrew #
+export $HOMEBREW_NO_ENV_HINTS=false
+############

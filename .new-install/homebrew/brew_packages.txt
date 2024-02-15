@@ -14,6 +14,7 @@ docker-buildx
 docker-completion
 docker-compose
 dtc
+fzf
 gawk
 gettext
 git
@@ -48,7 +49,6 @@ localstack-cli
 lz4
 lzo
 m4
-mongodb-database-tools
 mpdecimal
 mpfr
 ncurses
@@ -82,4 +82,5 @@ unbound
 unixodbc
 vde
 xz
+zoxide
 zstd

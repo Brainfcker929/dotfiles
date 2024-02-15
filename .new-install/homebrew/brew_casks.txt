@@ -1,9 +1,11 @@
 alt-tab
+background-music
 dbeaver-community
 firefox
 flameshot
 font-hack-nerd-font
 framer
 insomnia
+maccy
 spotify
 visual-studio-code

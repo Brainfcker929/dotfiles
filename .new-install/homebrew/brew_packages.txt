@@ -2,6 +2,7 @@ autoconf
 autojump
 automake
 bash
+bat
 brotli
 c-ares
 ca-certificates
@@ -30,6 +31,7 @@ jq
 libassuan
 libevent
 libgcrypt
+libgit2
 libgpg-error
 libidn2
 libksba
@@ -74,9 +76,12 @@ python@3.12
 pyyaml
 qemu
 readline
+ripgrep
 rtmpdump
+six
 snappy
 sqlite
+thefuck
 tig
 unbound
 unixodbc
